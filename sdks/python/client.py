@@ -5,7 +5,7 @@ import json
 import socket
 
 def get_move(player, board):
-  # TODO determine valid moves
+  # TODO Hello determine valid moves
   # TODO determine best move
   return [2, 3]
 
