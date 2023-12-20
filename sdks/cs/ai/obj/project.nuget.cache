@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+VAPipfYAcyqGw6eJB062LBBktmcRCgDCtL4k0W9VHPQqhJW1kunzPRuI2gQ+Yje2pzFG+EBMN+T+elnofosQ==",
+  "success": true,
+  "projectFilePath": "/Users/kobe/Downloads/Othello+Game+Server/sdks/cs/ai/ai.csproj",
+  "expectedPackageFiles": [
+    "/Users/kobe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kobe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
